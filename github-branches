@@ -1,0 +1,7 @@
+
+D:\mcino-Introduction-to-Git-and-GitHub>git branch -a -vv
+  bug-fix-typo                fad35e4 [origin/bug-fix-typo] Fix typo in README
+* main                        e0b7c00 [origin/main] Add bug fix revert output
+  remotes/origin/HEAD         -> origin/main
+  remotes/origin/bug-fix-typo fad35e4 Fix typo in README
+  remotes/origin/main         e0b7c00 Add bug fix revert output
